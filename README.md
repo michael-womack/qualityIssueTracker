@@ -2,6 +2,7 @@
 
 
 # Quality Issue Tracker
+<img width="391" height="278" alt="image" src="https://github.com/user-attachments/assets/84a0f4c2-e1d2-4266-aabf-959541de71a8" />
 
 ## Overview
 This application is designed to model a simplified defect and deviation lifecycle, similar to processes used in regulated environments.
