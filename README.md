@@ -6,7 +6,7 @@
 
 ## Overview
 This application is designed to model a simplified defect and deviation lifecycle, similar to processes used in regulated environments.
-It emphasizes traceability, allowing users to manage issues and track their status.
+It emphasizes traceability, allowing the user to manage issues and track their status.
 
 ---
 
